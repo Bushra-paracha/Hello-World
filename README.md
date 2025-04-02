@@ -1,5 +1,4 @@
 # Hello-World
-This repository is my introduction
 
 👋 Hi, I’m @Bushra-paracha
 I'm currently a junior in stony brook university. I am a double major Applied mathematics & statitics and Infomration Systems student.
